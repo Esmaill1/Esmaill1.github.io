@@ -1,6 +1,6 @@
 ## Side Projects
 
-[Quran Radio](https://esmaill1.github.io/fm)
+[Quran Radio](https://quran.esmail.app)
 
 [Png To Jpg ](https://batch-png-to-jpg-tool.pages.dev)
 
